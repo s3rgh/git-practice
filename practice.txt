@@ -6,3 +6,5 @@ added branch feature-two
 trying to create merge without conflict
 
 changes on github
+
+1-some changes in file for testing pull with conflict
