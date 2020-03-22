@@ -4,3 +4,5 @@ testing merge with conflict
 after merge, below this line there will be all other lines from another branch
 added branch feature-two
 trying to create merge without conflict
+
+changes on github
